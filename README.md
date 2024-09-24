@@ -1,5 +1,5 @@
-## Hey, it's Estrella 👋
-- Uni freshie 📚
+## Hey, it's Estrella 👋🏻
+- Uni freshie 📑
 - Loves design 🎨
 - Interested in coding 👩🏻‍💻
 - Carat 🩷
