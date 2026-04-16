@@ -20,26 +20,30 @@ I'm a second-year Computer Science student with a passion for blending the logic
 
 👩🏻‍💻 Coding Interests: Casually building web-based systems and exploring game development.
 
+🎮 Game Enthusiast: Big fan of cozy sims and digital adventures. Big fan of any world with a good story.
+
 🩷 Carat: Proud SEVENTEEN fan! Slip into the diamond life. 💎
 
 <br>
 
-<div align="center">
+<div align="left">
   <h3 align="left">
     Tech Stack & Tools 🛠
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp13;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     Favorite Music 🎧
   </h3>
-
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,gcp,mysql,firebase,vercel,react,latex,androidstudio,vscode,github,figma,notion,obsidian&perline=6" width="35%" align="left" />
-
+  
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=i34z5lhfgceetsz68mf9osp6m&hide_title=true&hide_playing=true&hide_recents=true&limit=5&show_border=false" width="50%" align="right" />
-  </a>
 
-  <br clear="all" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,gcp,mysql,firebase,vercel,react,latex,androidstudio,vscode,github,figma,notion,obsidian&perline=6" width="30%" />
+  
+  &emsp;
+  
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhod2VudXg0cTlucHlpczl0aTdpMDVpOXFtMWk3bHVnMHBjbmlzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7WLeao2bXtKXm/giphy.gif" width="30%" />
+  
+  <br clear="right" />
 </div>
 
-<br>
 
 ### Credits
 - Social Icons by <a href="https://github.com/CLorant/readme-social-icons.git">Lóránt Czibik</a>.
