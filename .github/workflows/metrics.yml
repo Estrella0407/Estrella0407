@@ -1,0 +1,40 @@
+name: Multi-Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+
+jobs:
+  render-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+
+      # 1. Header and General Stats
+      - name: General Stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: header.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Estrella0407
+          base: header, community, repositories
+      
+      # 2. Languages & WakaTime
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Estrella0407
+          base: "" # This hides the header so only the plugin shows
+          plugin_languages: yes
+
+      # 3. Calendar
+      - name: Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Estrella0407
+          base: "" # This hides the header so only the plugin shows
+          plugin_isocalendar: yes
