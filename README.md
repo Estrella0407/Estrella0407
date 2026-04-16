@@ -1,16 +1,52 @@
-## Hi there 👋
+<h2>
+  Hey, it's Estrella 👋🏻
+  <a href="https://open.spotify.com/user/i34z5lhfgceetsz68mf9osp6m?si=0e60eead69004da3"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/spotify.svg" width="20" align="right"/></a>
+  <a href="https://www.instagram.com/wei_xin0407/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/instagram.svg" width="20" align="right"/></a>
+  <a href="www.linkedin.com/in/chong-wei-xin-a223a5334"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/linkedin.svg" width="20" align="right"/></a>
+  </h2>
 
-<!--
-**Estrella0407/Estrella0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Computer Science student with a passion for blending the logic of code with the beauty of design. When I'm not debugging or working on projects, you can probably find me organizing my K-pop collection.
 
-Here are some ideas to get you started:
+<p>
+  <img src="header.svg" align="left" width="45%" />
+  <img src="languages.svg" width="45%" />
+  <br />
+  <img src="isocalendar.svg" width="45%" />
+</p>
+<br clear="left" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me 😆
+☁️ Data & Cloud: Currently an intern working with Google Cloud Platform (GCP) and BigQuery to manage and analyze data.
+
+👩🏻‍💻 Coding Interests: Casually building web-based systems and exploring game development.
+
+🩷 Carat: Proud SEVENTEEN fan! Slip into the diamond life. 💎
+
+<br>
+
+<div align="center">
+  <h3 align="left">
+    Tech Stack & Tools 🛠
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp13;
+    Favorite Music 🎧
+  </h3>
+
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,gcp,mysql,firebase,vercel,react,latex,androidstudio,vscode,github,figma,notion,obsidian&perline=6" width="35%" align="left" />
+
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=i34z5lhfgceetsz68mf9osp6m&hide_title=true&hide_playing=true&hide_recents=true&limit=5&show_border=false" width="50%" align="right" />
+  </a>
+
+  <br clear="all" />
+</div>
+
+<br>
+
+### Credits
+- Social Icons by <a href="https://github.com/CLorant/readme-social-icons.git">Lóránt Czibik</a>.
+
+- Info Metrics by <a href="https://github.com/lowlighter/metrics.git">lowlighter</a>.
+
+- Skill Icons by <a href="https://github.com/tandpfun/skill-icons.git">tandpfun</a>.
+
+- Spotify Card by <a href="https://github.com/magic-ike/spotify-data-card.git">Ike Ofoegbu</a>.
+
