@@ -5,7 +5,7 @@
   <a href="www.linkedin.com/in/chong-wei-xin-a223a5334"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/linkedin.svg" width="20" align="right"/></a>
   </h2>
 
-I'm a second-year Computer Science student with a passion for blending the logic of code with the beauty of design. When I'm not debugging or working on projects, you can probably find me organizing my K-pop collection.
+I'm currently a student studying for Bachelor in Computer Science (Interactive Software Technology) with a passion for blending the logic of code with the beauty of design. When I'm not debugging or working on projects, you can probably find me organizing my K-pop collection.
 
 <p>
   <img src="header.svg" align="left" width="45%" />
@@ -16,8 +16,6 @@ I'm a second-year Computer Science student with a passion for blending the logic
 <br clear="left" />
 
 ### About Me 😆
-☁️ Data & Cloud: Currently an intern working with Google Cloud Platform (GCP) and BigQuery to manage and analyze data.
-
 👩🏻‍💻 Coding Interests: Casually building web-based systems and exploring game development.
 
 🎮 Game Enthusiast: Big fan of cozy sims and digital adventures. Big fan of any world with a good story.
@@ -32,8 +30,8 @@ I'm a second-year Computer Science student with a passion for blending the logic
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     Favorite Music 🎧
   </h3>
-  
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=i34z5lhfgceetsz68mf9osp6m&hide_title=true&hide_playing=true&hide_recents=true&limit=5&show_border=false" width="50%" align="right" />
+
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=i34z5lhfgceetsz68mf9osp6m&hide_title&hide_playing=true&hide_recents=true&limit=5&show_border=false" width="50%" align="right">
 
   <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,gcp,mysql,firebase,vercel,react,latex,androidstudio,vscode,github,figma,notion,obsidian&perline=6" width="30%" />
   
